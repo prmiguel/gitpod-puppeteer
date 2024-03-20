@@ -1,1 +1,1 @@
-# gitpod-puppeteer
+# `Gitpod` `Puppeteer`

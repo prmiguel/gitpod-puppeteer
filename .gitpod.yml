@@ -6,4 +6,4 @@ ports:
     onOpen: open-preview
 tasks:
   - before: |
-      pwd
+      npm ci
